@@ -1,9 +1,12 @@
-# 🚀 Deepak Kumar
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Deepak%20Kumar&fontSize=52&fontColor=ffffff&fontAlignY=45&desc=Software%20Development%20Engineer%20%7C%20Full-Stack%20%7C%20AI%20Engineer&descAlignY=70&descSize=18&descColor=c7d2fe&animation=fadeIn" width="100%" alt="Header Banner" />
+</p>
 
-<div align="center">
-  <h3>Software Development Engineer (SDE) | Full-Stack & AI Engineer</h3>
-  <p><b>SDE @ DailyKaam | B.Tech Computer Science & Engineering @ NIT Trichy</b></p>
-</div>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=650&lines=%F0%9F%9A%80+SDE+%40+DailyKaam;%F0%9F%A7%A0+Building+Agentic+RAG+%26+LLM+Pipelines;%F0%9F%92%BB+Full-Stack+Enterprise+Systems;%E2%98%81%EF%B8%8F+Cloud+Orchestration+%26+Automation" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/deepak-kumar-62a4b8270"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -15,11 +18,11 @@
 ---
 
 ### 🧑‍💻 About Me
-I am a **Software Development Engineer (SDE)** at DailyKaam and a Computer Science graduate from **NIT Trichy**. I specialize in engineering scalable web/mobile applications, optimizing backend architectures, and building production-grade Generative AI integrations. 
+I am a **Software Development Engineer (SDE)** at DailyKaam and a Computer Science graduate from **NIT Trichy**. I specialize in engineering scalable web/mobile architectures, database optimization, and building production-grade Generative AI integrations. 
 
-* 🔭 **Current Focus:** Scaling production workflows, refining retrieval-augmented generation pipelines, and microservices automation.
+* 🔭 **Current Focus:** Scaling high-volume production APIs, tuning RAG vector search indices, and establishing CI/CD automation.
 * 🌐 **Production Deployments:** Explore live systems like [DDR AI Career Coach](https://ddrai-career-coach.vercel.app/) and [Explainable Fraud Detection Dashboard](https://github.com/DEEPAK-317/explainable-fraud-detection).
-* 🎓 **Foundations:** Core expertise in Data Structures & Algorithms, distributed systems, relational/non-relational database design, and cloud environments.
+* 🎓 **Core Foundations:** Algorithms/DSA, distributed databases, cloud systems, and native mobile development.
 
 ---
 
@@ -34,15 +37,15 @@ I am a **Software Development Engineer (SDE)** at DailyKaam and a Computer Scien
   * Collaborated on feature development, debug cycles, and system refactoring, maintaining rigorous code quality.
 
 #### 🔬 Research Intern @ IIT Patna *(May 2025 - Jul 2025)*
-* *Responsibilities & Impact:*
-  * Architected modular RAG pipelines, achieving **92% answer retrieval accuracy** over unstructured text sources.
-  * Optimized index mapping structures, semantic chunk parameters, and MMR retrieval algorithms to eliminate output hallucinations.
+* *Impact & System Engineering:*
+  * Designed modular RAG pipelines over unstructured datasets, elevating answer accuracy to **92%**.
+  * Optimized index chunk sizes and metadata routing in Pinecone, implementing MMR to eliminate LLM hallucinations.
   * *Tech:* Python, LangChain, Mistral Embeddings, Vector Storage, Semantic Search.
 
 #### 🤖 Generative AI Intern @ Nelumbus Technologies *(Jan 2025 - Apr 2025)*
-* *Responsibilities & Impact:*
-  * Engineered chain-of-thought, zero-shot, and few-shot prompt structures, improving LLM response accuracy by **18%**.
-  * Programmed agentic workflows and loop boundaries, achieving a **25% efficiency gain** in internal tooling operations.
+* *Impact & System Engineering:*
+  * Engineered structured prompt templates (CoT, few-shot), increasing task accuracy by **18%**.
+  * Automated core content moderation pipelines with LangChain, producing a **25% efficiency gain**.
   * *Tech:* Python, Prompt Engineering, OpenAI APIs, LangChain.
 
 ---
@@ -94,7 +97,7 @@ I actively contribute to the Generative AI and developer tooling ecosystems, foc
 ### 🧩 DSA & Competitive Programming
 * **LeetCode Profile:** [@deepak_3621](https://www.leetcode.com/u/deepak_3621)
 * **Stats:** 400+ problems solved across arrays, dynamic programming, graphs, trees, and string matching.
-* **Focus:** Regularly competing in Weekly/Biweekly LeetCode contests to optimize algorithmic execution times and logical complexity.
+* **Focus:** Regularly competing in Weekly/Biweekly LeetCode contests to optimize algorithmic complexity.
 
 ---
 
@@ -109,11 +112,18 @@ I actively contribute to the Generative AI and developer tooling ecosystems, foc
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepak-317&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6ee7b7&text_color=94a3b8&include_all_commits=true&count_private=true" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DEEPAK-317&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6ee7b7&text_color=94a3b8&include_all_commits=true&count_private=true" height="175" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak-317&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=94a3b8&langs_count=8" height="175" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEEPAK-317&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=94a3b8&langs_count=8" height="175" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepak-317&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6ee7b7&currStreakLabel=6366f1" width="70%" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEEPAK-317&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6ee7b7&currStreakLabel=6366f1" width="70%" alt="Streak Stats" />
 </div>
+
+---
+
+### 🎮 Contribution Grid Snake Game
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DEEPAK-317/DEEPAK-317/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
