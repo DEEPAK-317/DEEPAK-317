@@ -1,6 +1,9 @@
-# Deepak Kumar
-**Software Development Engineer (SDE)**  
-National Institute of Technology (NIT), Trichy | SDE at DailyKaam
+<div align="center">
+  <img src="https://github.com/DEEPAK-317.png" width="150" height="150" style="border-radius: 50%; object-fit: cover; border: 3px solid #6366F1;" alt="Deepak Kumar Profile Picture" />
+  <h1>Deepak Kumar</h1>
+  <p><strong>Software Development Engineer (SDE)</strong></p>
+  <p>National Institute of Technology (NIT), Trichy | SDE @ DailyKaam</p>
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepak-kumar-62a4b8270)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://www.leetcode.com/u/deepak_3621)
