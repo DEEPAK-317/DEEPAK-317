@@ -1,115 +1,149 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Deepak%20Kumar&fontSize=50&fontColor=ffffff&fontAlignY=45&desc=Software%20Development%20Engineer%20%7C%20Full-Stack%20%7C%20AI%20Engineer&descAlignY=70&descSize=16&descColor=c7d2fe&animation=fadeIn" width="100%" alt="Header Banner" />
-</p>
+# Deepak Kumar
+**Software Development Engineer (SDE)**  
+National Institute of Technology (NIT), Trichy | SDE at DailyKaam
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=%E2%9A%A1+SDE+%40+DailyKaam;%F0%9F%A7%A0+Building+Agentic+RAG+%26+LLM+Pipelines;%F0%9F%92%BB+Full-Stack+Enterprise+Systems;%E2%98%81%EF%B8%8F+Cloud+Orchestration+%26+Automation" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/deepak-kumar-62a4b8270"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://deepakkumarnittrichy2026.netlify.app/"><img src="https://img.shields.io/badge/🗂️_Portfolio-0A0E1A?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.leetcode.com/u/deepak_3621"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="mailto:deepaknittrichy@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepak-kumar-62a4b8270)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://www.leetcode.com/u/deepak_3621)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:deepaknittrichy@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0E1A?style=flat-square)](https://deepakkumarnittrichy2026.netlify.app/)
 
 ---
 
-### 🧑‍💻 About Me
-I am a **Software Development Engineer (SDE)** at DailyKaam and a Computer Science student at **NIT Trichy** ('26). I specialize in engineering scalable web/mobile architectures, database optimization, and building production-grade Generative AI integrations. 
+## About Me
 
-* 🔭 **Current Focus:** Scaling high-volume production APIs, tuning RAG vector search indices, and establishing CI/CD automation.
-* 🌐 **Production Deployments:** Explore live systems like [DDR AI Career Coach](https://ddrai-career-coach.vercel.app/) and [Explainable Fraud Detection Dashboard](https://github.com/DEEPAK-317/explainable-fraud-detection).
-* 🎓 **Core Foundations:** Algorithms/DSA, distributed databases, cloud systems, and native mobile development.
+I am a Software Development Engineer (SDE) at DailyKaam and a Computer Science & Engineering student at NIT Trichy. I focus on backend API design, distributed database architectures, cloud deployments, and integrating Generative AI pipelines. My engineering philosophy revolves around writing clean, testable code, optimizing execution performance, and building systems that scale efficiently under production loads.
 
 ---
 
-### 💼 Professional Experience
+## Professional Experience
 
-#### 💻 Software Development Engineer (SDE) @ DailyKaam
-* *Responsibilities & Impact:*
-  * Engineered and maintained production-grade web and cross-platform mobile applications, boosting frontend responsiveness and load times.
-  * Designed, optimized, and deployed scalable RESTful APIs and backend microservices, handling complex database query routines.
-  * Implemented structured schema normalization, relational indexes, and query optimizations, improving database retrieval times.
-  * Configured containerized deployment setups and pipeline monitors to ensure high system uptime and clean production support.
-  * Collaborated on feature development, debug cycles, and system refactoring, maintaining rigorous code quality.
+### Software Development Engineer | DailyKaam *(Current)*
+* **Production Web Application Development:** Architect client-facing modules using React and Next.js, reducing rendering latencies and improving load times.
+* **Mobile Application Development:** Build and maintain cross-platform mobile app configurations to ensure UI parity and performance.
+* **Backend API Engineering:** Design, implement, and optimize RESTful backend API routes in Node.js and Express to manage high-volume data streams.
+* **Database Design & Optimization:** Model relational and non-relational database schemas in PostgreSQL and MongoDB, implementing indexing and normalized layouts to reduce lookup latency.
+* **Deployment & Production Support:** Maintain Docker runtimes, configure continuous integration scripts, and support live production rollouts.
+* **System Scalability & Performance Optimization:** Audit and resolve bottleneck routes to ensure low network latency and maximum request throughput.
 
-#### 🔬 Research Intern @ IIT Patna *(May 2025 - Jul 2025)*
-* *Impact & System Engineering:*
-  * Designed modular RAG pipelines over unstructured datasets, elevating answer accuracy to **92%**.
-  * Optimized index chunk sizes and metadata routing in Pinecone, implementing MMR to eliminate LLM hallucinations.
-  * *Tech:* Python, LangChain, Mistral Embeddings, Vector Storage, Semantic Search.
+### Full Stack Intern | National Institute of Technology (NIT), Trichy *(Jul 2024 – Aug 2024)*
+* **High-Throughput Scale:** Architected a MERN-based M-Commerce platform ([Live Application](https://eshop-firebase.vercel.app/)) with Progressive Web App (PWA) support, scaling container workloads on AWS to support 10,000+ concurrent users.
+* **Caching & Database Tuning:** Implemented Redis key-value caching, relational index strategies, and collection sharding, resulting in a 35% query performance improvement and a 40% reduction in server CPU load.
+* **Automation Pipelines:** Structured automated unit testing and build verification pipelines using GitHub Actions, cutting staging release cycles by 40%.
 
-#### 🤖 Generative AI Intern @ Nelumbus Technologies *(Jan 2025 - Apr 2025)*
-* *Impact & System Engineering:*
-  * Engineered structured prompt templates (CoT, few-shot), increasing task accuracy by **18%**.
-  * Automated core content moderation pipelines with LangChain, producing a **25% efficiency gain**.
-  * *Tech:* Python, Prompt Engineering, OpenAI APIs, LangChain.
+### Generative AI Intern | Nelumbus Technologies LLP *(Jun 2025 – Jul 2025)*
+* **Workflow Acceleration:** Configured LangChain agentic state-machines and multi-model routing loops, boosting administrative operational efficiency by 25%.
+* **RAG System Engineering:** Designed and implemented Retrieval-Augmented Generation (RAG) pipelines ([Live Platform](https://rag-document-qna-system.vercel.app/)) using vector embeddings, Pinecone indices, and semantic search, raising output accuracy by 18%.
+* **Development Velocity:** Created prompt orchestration helpers that shortened overall developer iteration cycles by 30%.
 
 ---
 
-### 🚀 Featured Systems & Projects
+## Featured Projects
 
-#### 🧠 [DDR AI Career Coach](https://github.com/DEEPAK-317/DDRAI-CAREER-COACH)
-An AI-powered SaaS career acceleration platform designed to provide automated resume auditing, mock technical interview sessions, and career plan generation.
-* **Impact:** Delivers automated, line-by-line feedback with parsed metrics in under 3 seconds.
-* **Tech Stack:** Next.js, TypeScript, Gemini API, Prisma ORM, PostgreSQL, TailwindCSS.
-* **Links:** [Repository](https://github.com/DEEPAK-317/DDRAI-CAREER-COACH) | [Live Demo](https://ddrai-career-coach.vercel.app/)
+### DDR AI Career Coach
+* **Business Impact:** Automates candidate resume analysis, yielding parsed scores and line-by-line feedback in under 3 seconds.
+* **Technical Challenges:** Mitigating prompt instruction drifts and handling large-context resume documents under rate limits.
+* **Architecture:** Next.js client routes requests to serverless API handlers. Sessions are tracked via Prisma ORM to Neon PostgreSQL, while resume uploads are audited via Gemini API.
+* **Tech Stack:** Next.js, TypeScript, Gemini API, Prisma ORM, Neon PostgreSQL, TailwindCSS.
+* **Repository Link:** [DEEPAK-317/DDRAI-CAREER-COACH](https://github.com/DEEPAK-317/DDRAI-CAREER-COACH)
+* **Architecture Flow:**
+```mermaid
+graph TD
+    User([User / Candidate]) -->|Uploads Resume| NextJS[Next.js Client]
+    NextJS -->|Proxies Request| NextAPI[Next.js Backend API]
+    NextAPI -->|Query Auth & Session| Prisma[Prisma ORM]
+    Prisma -->|Read/Write State| DB[(Neon PostgreSQL)]
+    NextAPI -->|Prompt & Resume Stream| Gemini[Gemini 1.5 Pro LLM]
+    Gemini -->|Line-by-Line Critique| NextAPI
+    NextAPI -->|Structured JSON Response| NextJS
+    NextJS -->|Dynamic Interactive UI| User
+```
 
-#### 📄 [RAG-based Document Intelligence System](https://github.com/DEEPAK-317/RAG_Document_QnA-_System)
-An end-to-end question-answering tool that enables conversational query processing over high-volume PDF documents.
-* **Impact:** Improves response coherence and citation mapping using diverse MMR vector indexing.
-* **Tech Stack:** HTML5, CSS3, JavaScript, Python, FastAPI, LangChain, Pinecone, Mistral API.
-* **Links:** [Repository](https://github.com/DEEPAK-317/RAG_Document_QnA-_System)
+### RAG-based Document Intelligence System
+* **Business Impact:** Powers context-aware query processing over massive PDF log archives, returning precise reference citations.
+* **Technical Challenges:** Managing overlap chunk boundaries to maintain semantic intent during document partitioning.
+* **Architecture:** FastAPI server coordinates document parsing, Mistral vector embed indexing, and similarity searches inside Pinecone using MMR retrieval patterns.
+* **Tech Stack:** Python, FastAPI, LangChain, Pinecone Vector DB, Mistral API.
+* **Links:** [Repository](https://github.com/DEEPAK-317/RAG_Document_QnA-_System) | [Live Demo](https://rag-document-qna-system.vercel.app/)
+* **Architecture Flow:**
+```mermaid
+graph TD
+    Docs[[High-Volume PDF Logs]] -->|Batch Load| FastAPI[FastAPI Server]
+    FastAPI -->|Semantic Text Partitioning| Chunks[Document Chunks]
+    Chunks -->|Mistral Embedding API| Embeddings[Dense Vectors]
+    Embeddings -->|Store & Index| Pinecone[(Pinecone Vector DB)]
+    UserQuery([User Query]) -->|FastAPI semantic lookup| Pinecone
+    Pinecone -->|Diverse Retrieval via MMR| RefDocs[Top-K Reference Vectors]
+    RefDocs -->|Context Synthesis Prompt| MistralLLM[Mistral AI LLM]
+    MistralLLM -->|Coherent Answer with Citations| FastAPI
+    FastAPI -->|JSON Stream Response| UserQuery
+```
 
-#### 🛡️ [Explainable Fraud Detection System](https://github.com/DEEPAK-317/explainable-fraud-detection)
-An AI-powered fraud classification system designed to detect and explain financial anomalies with high interpretability.
-* **Impact:** Integrates SHAP explanation weights inside a live analytics dashboard to output visual decision pathways.
-* **Tech Stack:** Python, Streamlit, Scikit-Learn, SHAP, Pandas, Matplotlib.
-* **Links:** [Repository](https://github.com/DEEPAK-317/explainable-fraud-detection)
+### Explainable Fraud Detection System
+* **Business Impact:** Increases audit transparency by generating local explanation weights for transactions flagged as fraudulent.
+* **Technical Challenges:** Balancing high anomaly recall targets while preventing false-positive classification inflation.
+* **Architecture:** Modular machine learning pipeline (Isolation Forest & Random Forest) feeding prediction scores and explanation weights (SHAP) directly to a Streamlit browser dashboard.
+* **Tech Stack:** Python, Streamlit, Scikit-Learn, SHAP, Pandas.
+* **Repository Link:** [DEEPAK-317/explainable-fraud-detection](https://github.com/DEEPAK-317/explainable-fraud-detection)
 
-#### 🎓 [NITT Student Track System](https://github.com/DEEPAK-317/Nitt-Student-Track)
-A full-stack student planner and task manager engineered to handle daily schedules, task assignments, and calendar updates.
-* **Impact:** Formulated JWT access authorization schemas and responsive calendar hooks, achieving less than 150ms updates.
-* **Tech Stack:** JavaScript, Node.js, Express, MongoDB, HTML, CSS.
-* **Links:** [Repository](https://github.com/DEEPAK-317/Nitt-Student-Track)
+### MailMate AI Email Assistant
+* **Business Impact:** Automates dynamic email writing with customizable tone categories, speeding up corporate communication flows.
+* **Technical Challenges:** Parsing and validating user inputs into clean prompt formatting constraints.
+* **Architecture:** Streamlit frontend routing payloads to python handler methods interfacing with Google Gemini completions.
+* **Tech Stack:** Python, Streamlit, Gemini API, Prompt Engineering.
+* **Repository Link:** [DEEPAK-317/MailMate](https://github.com/DEEPAK-317/MailMate)
+
+### NITT Student Track System
+* **Business Impact:** Streamlines scheduling, daily logging, and assignment management for student workflows.
+* **Technical Challenges:** Ensuring session persistence and role validation checks.
+* **Architecture:** Single-page client communicating with Node.js controllers, querying data via Mongoose to MongoDB.
+* **Tech Stack:** JavaScript, Node.js, Express, MongoDB.
+* **Repository Link:** [DEEPAK-317/Nitt-Student-Track](https://github.com/DEEPAK-317/Nitt-Student-Track)
+
+### Split Expense sharing Mobile App
+* **Business Impact:** Simplifies ledger tracking and group balances calculation for shared group expenditures.
+* **Technical Challenges:** Designing logic models to process offline transactions and state synchronization.
+* **Architecture:** Cross-platform React Native views pushing updates to Node.js backend endpoints feeding a MongoDB database.
+* **Tech Stack:** TypeScript, React Native, Node.js, Express, MongoDB.
+* **Repository Link:** [DEEPAK-317/Split-App](https://github.com/DEEPAK-317/Split-App) (Client) | [DEEPAK-317/SplitApp](https://github.com/DEEPAK-317/SplitApp) (API)
 
 ---
 
-### 🛠️ Technical Toolkit
+## Technical Skills
 
-* **Languages:** Python, JavaScript, TypeScript, C++, C, SQL, Dart
-* **Frontend/Mobile:** Next.js, React.js, Flutter, Tailwind CSS, Bootstrap, HTML5/CSS3
-* **Backend/Databases:** Node.js, Express.js, FastAPI, PostgreSQL, MongoDB, Redis, Prisma ORM, Firebase
-* **AI/ML/Cloud:** LangChain, OpenAI APIs, Gemini API, Pinecone Vector DB, PyTorch, TensorFlow, Scikit-Learn, Docker, AWS
-
----
-
-### 🤝 Open-Source Contributions
-I actively contribute to the Generative AI and developer tooling ecosystems, focusing on improving retrieval metrics and developer productivity:
-* **[LangChain Ecosystem](https://github.com/langchain-ai/langchain):** Refactored loader helpers to minimize retrieval latency and memory footprints.
-* **[Streamlit Contribs](https://github.com/streamlit/streamlit):** Improved UI responsiveness and layout rendering in dynamic web components.
+| Skill Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | Python, JavaScript, TypeScript, C++, C, SQL, Dart |
+| **Frontend/Mobile** | Next.js, React.js, React Native, Flutter, Tailwind CSS, HTML5, CSS3 |
+| **Backend/Databases** | Node.js, Express.js, FastAPI, PostgreSQL, MongoDB, Redis, Prisma ORM, Firebase |
+| **AI/ML/Cloud** | LangChain, Pinecone Vector DB, Gemini API, Mistral API, Docker, AWS |
 
 ---
 
-### 🧩 DSA & Competitive Programming
+## Open Source
+
+I contribute to developer utilities and runtime wrappers in the Generative AI and web framework spaces:
+* **[LangChain Ecosystem](https://github.com/langchain-ai/langchain):** Refactored text loading utilities to minimize runtime buffering delays.
+* **[Streamlit Contribs](https://github.com/streamlit/streamlit):** Optimized dashboard rendering modules for consistent responsive displays.
+* **[rag-cache-optimizer](https://github.com/DEEPAK-317/rag-cache-optimizer):** *[Active Project]* Building a Python utility for semantic caching of prompt embeddings to reduce LLM latency.
+
+---
+
+## DSA & Problem Solving
 * **LeetCode Profile:** [@deepak_3621](https://www.leetcode.com/u/deepak_3621)
-* **Stats:** 400+ problems solved across arrays, dynamic programming, graphs, trees, and string matching.
-* **Focus:** Regularly competing in Weekly/Biweekly LeetCode contests to optimize algorithmic complexity.
+* **Statistics:** 400+ algorithmic problems solved across Arrays, Dynamic Programming, Graphs, and Trees.
+* **Competitions:** Active participant in weekly optimization rounds to test runtime complexities.
 
 ---
 
-### 📜 Certifications
-* **AWS Certified Cloud Practitioner** (Amazon Web Services)
-* **Deep Learning Specialization** (DeepLearning.AI)
-* **Generative AI with Large Language Models** (DeepLearning.AI / AWS)
-* **Google Cloud Associate Cloud Engineer** (Google Cloud)
+## Certifications
+* **AWS Certified Cloud Practitioner** - Amazon Web Services
+* **Google Cloud Associate Cloud Engineer** - Google Cloud
+* **Deep Learning Specialization** - DeepLearning.AI
+* **Generative AI with Large Language Models** - DeepLearning.AI / AWS
 
 ---
 
-### 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DEEPAK-317&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6ee7b7&text_color=94a3b8&include_all_commits=true&count_private=true" height="175" alt="GitHub Stats" />
@@ -117,13 +151,15 @@ I actively contribute to the Generative AI and developer tooling ecosystems, foc
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEEPAK-317&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=94a3b8&langs_count=8" height="175" alt="Top Languages" />
 </div>
 
+<br />
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEEPAK-317&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6ee7b7&currStreakLabel=6366f1" width="70%" alt="Streak Stats" />
 </div>
 
 ---
 
-### 🎮 Contribution Grid Snake Game
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DEEPAK-317/DEEPAK-317/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
+## Contact Information
+* **LinkedIn:** [linkedin.com/in/deepak-kumar-62a4b8270](https://linkedin.com/in/deepak-kumar-62a4b8270)
+* **Portfolio:** [deepakkumarnittrichy2026.netlify.app](https://deepakkumarnittrichy2026.netlify.app/)
+* **Email:** [deepaknittrichy@gmail.com](mailto:deepaknittrichy@gmail.com)
