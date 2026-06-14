@@ -2,20 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Deepak%20Kumar&fontSize=50&fontColor=ffffff&fontAlignY=45&desc=Software%20Development%20Engineer%20%7C%20Full-Stack%20%7C%20AI%20Engineer&descAlignY=70&descSize=16&descColor=c7d2fe&animation=fadeIn" width="100%" alt="Header Banner" />
 </p>
 
-<table align="center" border="0" cellpadding="10" cellspacing="0" style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <td align="center" valign="middle" style="border: none; padding-right: 20px;">
-      <img src="https://github.com/DEEPAK-317.png" width="140" height="140" style="border-radius: 50%; border: 4px solid #6366F1; min-width: 140px;" alt="Deepak Kumar Profile Picture" />
-    </td>
-    <td align="left" valign="middle" style="border: none;">
-      <h3>👋 Welcome to my portfolio!</h3>
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=800&color=6366F1&center=false&vCenter=true&width=450&lines=%E2%9A%A1+SDE+%40+DailyKaam;%F0%9F%A7%A0+Building+Agentic+RAG+%26+LLM+Pipelines;%F0%9F%92%BB+Full-Stack+Enterprise+Systems;%E2%98%81%EF%B8%8F+Cloud+Orchestration+%26+Automation" alt="Typing SVG" />
-      </a>
-      <p><b>Software Development Engineer</b> with robust experience building scalable backend microservices, real-time web/mobile applications, and retrieval-augmented systems.</p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=%E2%9A%A1+SDE+%40+DailyKaam;%F0%9F%A7%A0+Building+Agentic+RAG+%26+LLM+Pipelines;%F0%9F%92%BB+Full-Stack+Enterprise+Systems;%E2%98%81%EF%B8%8F+Cloud+Orchestration+%26+Automation" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/deepak-kumar-62a4b8270"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
